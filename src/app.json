@@ -1,0 +1,12 @@
+{
+  "pages": [
+"pages/home/main",
+        "pages/searchPage/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  }
+}
